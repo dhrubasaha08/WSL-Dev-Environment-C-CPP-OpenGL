@@ -49,7 +49,7 @@ wsl --set-default-version 2
 Install development tools: In the Linux terminal, run the following command to install the necessary development tools:
 
 ```shell
-sudo apt update && sudo apt install build-essential mesa-utils libgl1-mesa-dev -y
+sudo apt update && sudo apt install build-essential mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev libglew-dev libglfw3-dev libglm-dev libao-dev libmpg123-dev
 ```
 
 This command installs the build-essential package, which includes compilers and other tools for building C/C++ applications, as well as the mesa-utils and libgl1-mesa-dev packages, which are necessary for OpenGL development.
