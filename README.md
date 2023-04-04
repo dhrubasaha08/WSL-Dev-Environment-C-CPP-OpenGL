@@ -38,9 +38,9 @@ wsl --set-default-version 2
 
 ## Installing a Linux Distribution & Windows Subsystem for Linux(Required for GUI)
 
-1. Open the Microsoft Store and search for your preferred Linux distribution (e.g., Ubuntu, Debian, or Kali Linux). Click "Get" to install the distribution on your WSL. We suggest installing [Ubuntu 22.04.2 LTS](https://apps.microsoft.com/store/detail/ubuntu-22042-lts).
+1. Open the Microsoft Store and search for your preferred Linux distribution (e.g., Ubuntu, Debian, or Kali Linux). Click "Get" to install the distribution on your WSL. We suggest installing [Ubuntu 22.04.2 LTS](https://apps.microsoft.com/store/detail/ubuntu-22042-lts/9PN20MSR04DW).
 
-2. Now Install [Windows Subsystem for Linux](https://apps.microsoft.com/store/detail/windows-subsystem-for-linux)(WSL) lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual boot setup.
+2. Now Install [Windows Subsystem for Linux](https://apps.microsoft.com/store/detail/windows-subsystem-for-linux/9P9TQF7MRM4R)(WSL) lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual boot setup.
 
 3. Launch and configure Linux distribution: Open the Start menu and click on the Linux distribution you installed to launch it. Follow the on-screen instructions to set up the Linux distribution.
 
